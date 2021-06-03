@@ -51,10 +51,13 @@
 一躺平一天系列：
 
 - 《文明 6》(Civilization VI)
+- 《十字军之王 3》(Crusader Kings III) 
+- 《群星》(Stellaris)
  
 感受生活系列：
 
 - 《星露谷物语》(Stardew Valley)
+- 《集合啦！动物森友会》(Animal Crossing: New Horizons)
 
 
 
