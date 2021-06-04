@@ -53,7 +53,8 @@
 - 《文明 6》(Civilization VI)
 - 《十字军之王 3》(Crusader Kings III) 
 - 《群星》(Stellaris)
- 
+- 《钢铁雄心 4》(Hearts of Iron IV)
+
 感受生活系列：
 
 - 《星露谷物语》(Stardew Valley)
