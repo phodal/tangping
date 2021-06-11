@@ -79,6 +79,8 @@
 - 《十字军之王 3》(Crusader Kings III) 
 - 《群星》(Stellaris)
 - 《钢铁雄心 4》(Hearts of Iron IV)
+- 《戴森球计划》(Dyson Sphere Program)
+- 《火焰纹章风花雪月》(ファイアーエムブレム 風花雪月)
 
 感受生活系列：
 
