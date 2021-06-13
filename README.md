@@ -87,6 +87,16 @@
 - 《星露谷物语》(Stardew Valley)
 - 《集合啦！动物森友会》(Animal Crossing: New Horizons)
 
+
+### 🔫 休闲娱乐
+
+1.91porn
+2.草榴论坛
+3.2048社区
+4.小妲己直播
+5.推特、Telegram
+6.soul灵魂（你懂的）
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/phodal/tangping.svg)](https://starchart.cc/phodal/tangping)
