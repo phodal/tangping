@@ -88,6 +88,10 @@
 - 《星露谷物语》(Stardew Valley)
 - 《集合啦！动物森友会》(Animal Crossing: New Horizons)
 
+### 国际同盟
+
+ reddit上一个有关躺平的频道：[r/antiwork](https://www.reddit.com/r/antiwork/)
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/phodal/tangping.svg)](https://starchart.cc/phodal/tangping)
