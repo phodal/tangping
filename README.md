@@ -1,3 +1,5 @@
+简体中文 | [English](README.el.md)
+
 # 🛌躺平🛌
 
 > 旨在放弃跟随舆论导向，寻找人生的真谛。
@@ -91,8 +93,8 @@
 
 ### 国际同盟
 
- reddit上一个有关躺平的频道：[r/antiwork](https://www.reddit.com/r/antiwork/)
+ Reddit 上一个有关躺平的频道：[r/antiwork](https://www.reddit.com/r/antiwork/)。
 
-## Stargazers over time
+##  Star 趋势
 
 [![Stargazers over time](https://starchart.cc/phodal/tangping.svg)](https://starchart.cc/phodal/tangping)
